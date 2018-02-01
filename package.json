@@ -1,0 +1,14 @@
+{
+  "name": "git_intro",
+  "version": "1.0.0",
+  "description": "learning git",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Ali",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^5.0.0"
+  }
+}
