@@ -2,6 +2,7 @@
 
 Learning Git and Github how they work together
 
+Now I want to show various parts of the Git repository
 ## Introduction 
 ## Purpose
 ## How to Deploy
