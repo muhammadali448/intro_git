@@ -17,3 +17,4 @@ console.log('BRANCH MASTER')
 console.log('no way');
 console.log('branch myNewFeature')
 >>>>>>> myNewFeature
+console.log('added before rebasing')
