@@ -18,3 +18,7 @@ console.log('no way');
 console.log('branch myNewFeature')
 >>>>>>> myNewFeature
 console.log('added before rebasing')
+nldnaldnaldnaldnalkdnad
+dddddddddddddddddddddddddddddddddddddddd
+dddddddddddddddddddddddddddddddddaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
