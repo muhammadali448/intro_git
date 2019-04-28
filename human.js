@@ -5,4 +5,8 @@ console.log('YASIR AND RAJA HAVE A HUSBAND WIFE RELATION.. DONT TELL ANYONE')
 console.log('Nothing changed')
 =======
 console.log('ALI AND TAHA ARE SINGLE MATERIAL')
+<<<<<<< HEAD
+>>>>>>> simple-changes
+=======
+console.log('DANIYAL AND HASSAN ARE BF AND GF FOREVER APPENDED')
 >>>>>>> simple-changes
