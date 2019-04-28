@@ -9,3 +9,5 @@ I LOVE GIT
 ## Purpose
 ## How to Deploy
 ## How to Contribute
+## copyright section
+hello copyright
