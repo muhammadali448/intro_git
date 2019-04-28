@@ -10,4 +10,3 @@ console.log('ALI AND TAHA ARE SINGLE MATERIAL')
 =======
 console.log('DANIYAL AND HASSAN ARE BF AND GF FOREVER APPENDED')
 >>>>>>> simple-changes
-console.log('ddd')
