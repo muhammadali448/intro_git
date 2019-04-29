@@ -12,6 +12,7 @@ I LOVE GIT
 ## copyright section
 hello copyright
 CHANGING --> REBASE
+## STASHING
 ## REBASING
 DNALNDALKDNKLA
 OKY
